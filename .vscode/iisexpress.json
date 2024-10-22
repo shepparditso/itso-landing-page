@@ -1,0 +1,6 @@
+{
+  "port": 1024,
+  "path": "C: /Program Files /IIS Express/iisexpress.exe ",
+  "clr": "v4.0",
+  "protocol": "https"
+}
